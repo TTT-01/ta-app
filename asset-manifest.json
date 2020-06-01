@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ta-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ta-app/static/js/main.1a235e72.chunk.js",
+    "main.js.map": "/ta-app/static/js/main.1a235e72.chunk.js.map",
+    "runtime-main.js": "/ta-app/static/js/runtime-main.39ab7aed.js",
+    "runtime-main.js.map": "/ta-app/static/js/runtime-main.39ab7aed.js.map",
+    "static/js/2.c10486fe.chunk.js": "/ta-app/static/js/2.c10486fe.chunk.js",
+    "static/js/2.c10486fe.chunk.js.map": "/ta-app/static/js/2.c10486fe.chunk.js.map",
+    "index.html": "/ta-app/index.html",
+    "precache-manifest.4d98a28291f4b4d8729d51b939ac23a9.js": "/ta-app/precache-manifest.4d98a28291f4b4d8729d51b939ac23a9.js",
+    "service-worker.js": "/ta-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ta-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c10486fe.chunk.js.LICENSE.txt": "/ta-app/static/js/2.c10486fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ta-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ab7aed.js",
+    "static/js/2.c10486fe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1a235e72.chunk.js"
+  ]
+}
