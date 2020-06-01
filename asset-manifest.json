@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ta-app/static/css/main.aaaa6204.chunk.css",
+    "main.css": "/ta-app/static/css/main.bdda7767.chunk.css",
     "main.js": "/ta-app/static/js/main.bfa30f00.chunk.js",
     "main.js.map": "/ta-app/static/js/main.bfa30f00.chunk.js.map",
     "runtime-main.js": "/ta-app/static/js/runtime-main.39ab7aed.js",
@@ -8,16 +8,16 @@
     "static/js/2.c10486fe.chunk.js": "/ta-app/static/js/2.c10486fe.chunk.js",
     "static/js/2.c10486fe.chunk.js.map": "/ta-app/static/js/2.c10486fe.chunk.js.map",
     "index.html": "/ta-app/index.html",
-    "precache-manifest.fc99befafd21bb82671853aa4a88bc9f.js": "/ta-app/precache-manifest.fc99befafd21bb82671853aa4a88bc9f.js",
+    "precache-manifest.321b62347bddc75e9e95101afb4fecb8.js": "/ta-app/precache-manifest.321b62347bddc75e9e95101afb4fecb8.js",
     "service-worker.js": "/ta-app/service-worker.js",
-    "static/css/main.aaaa6204.chunk.css.map": "/ta-app/static/css/main.aaaa6204.chunk.css.map",
+    "static/css/main.bdda7767.chunk.css.map": "/ta-app/static/css/main.bdda7767.chunk.css.map",
     "static/js/2.c10486fe.chunk.js.LICENSE.txt": "/ta-app/static/js/2.c10486fe.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ta-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.39ab7aed.js",
     "static/js/2.c10486fe.chunk.js",
-    "static/css/main.aaaa6204.chunk.css",
+    "static/css/main.bdda7767.chunk.css",
     "static/js/main.bfa30f00.chunk.js"
   ]
 }
