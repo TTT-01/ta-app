@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ta-app/static/css/main.1db69cbd.chunk.css",
-    "main.js": "/ta-app/static/js/main.f254c184.chunk.js",
-    "main.js.map": "/ta-app/static/js/main.f254c184.chunk.js.map",
+    "main.css": "/ta-app/static/css/main.f6c363c1.chunk.css",
+    "main.js": "/ta-app/static/js/main.01d23790.chunk.js",
+    "main.js.map": "/ta-app/static/js/main.01d23790.chunk.js.map",
     "runtime-main.js": "/ta-app/static/js/runtime-main.39ab7aed.js",
     "runtime-main.js.map": "/ta-app/static/js/runtime-main.39ab7aed.js.map",
     "static/js/2.23f22408.chunk.js": "/ta-app/static/js/2.23f22408.chunk.js",
     "static/js/2.23f22408.chunk.js.map": "/ta-app/static/js/2.23f22408.chunk.js.map",
     "index.html": "/ta-app/index.html",
-    "precache-manifest.a5573f5164385c616263824ac3fbb114.js": "/ta-app/precache-manifest.a5573f5164385c616263824ac3fbb114.js",
+    "precache-manifest.a4a6400295f31e413bd1bc7da2f47f53.js": "/ta-app/precache-manifest.a4a6400295f31e413bd1bc7da2f47f53.js",
     "service-worker.js": "/ta-app/service-worker.js",
-    "static/css/main.1db69cbd.chunk.css.map": "/ta-app/static/css/main.1db69cbd.chunk.css.map",
+    "static/css/main.f6c363c1.chunk.css.map": "/ta-app/static/css/main.f6c363c1.chunk.css.map",
     "static/js/2.23f22408.chunk.js.LICENSE.txt": "/ta-app/static/js/2.23f22408.chunk.js.LICENSE.txt",
     "static/media/bg0.gif": "/ta-app/static/media/bg0.6da60f96.gif",
-    "static/media/ta1.jpg": "/ta-app/static/media/ta1.7d7000ba.jpg"
+    "static/media/ta1.jpg": "/ta-app/static/media/ta1.de37257d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.39ab7aed.js",
     "static/js/2.23f22408.chunk.js",
-    "static/css/main.1db69cbd.chunk.css",
-    "static/js/main.f254c184.chunk.js"
+    "static/css/main.f6c363c1.chunk.css",
+    "static/js/main.01d23790.chunk.js"
   ]
 }
